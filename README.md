@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soranta
+- 👋 Hi, I’m Mustafa
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python and mysql.
 - 📫 How to reach me mstfgvlr@gmail.com
